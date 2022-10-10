@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theory_of_Graph", "Theory_of_Graph\Theory_of_Graph.csproj", "{3F98B785-2ABE-4424-BC39-E1A637BBB1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F98B785-2ABE-4424-BC39-E1A637BBB1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F98B785-2ABE-4424-BC39-E1A637BBB1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F98B785-2ABE-4424-BC39-E1A637BBB1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F98B785-2ABE-4424-BC39-E1A637BBB1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA25865-937B-4016-87C9-FC4BDCDFBF24}
+	EndGlobalSection
+EndGlobal
